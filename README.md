@@ -1,1 +1,5 @@
 # Khushbakht Zehra Naqvi's Notes
+
+## Summary 
+This repository contains all of the notes taken by [Khushbakht Zehra Naqvi](https://github.com/khushbakhtnaqvi) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
